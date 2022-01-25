@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @iamsmthing
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @iamsmthing SHIVAM KUMAR RAI as SHIVAM
+- 👀 I’m interested in Learning new technologies
+- 🌱 I’m currently learning Learning Django ,MongoDB
+- 💞️ I’m looking to collaborate on Nothing
+- 📫 How to reach me : https://www.instagram.com/imsmthing09/
 
 <!---
 iamsmthing/iamsmthing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
