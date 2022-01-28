@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamsmthing SHIVAM KUMAR RAI as SHIVAM
 - 👀 I’m interested in Learning new technologies
-- 🌱 I’m currently learning Learning Django ,MongoDB
+- 🌱 I’m currently learning Learning Django ,MongoDB and some other technologies.
 - 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me : https://www.instagram.com/imsmthing09/
 
